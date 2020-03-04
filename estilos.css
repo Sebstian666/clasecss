@@ -1,0 +1,17 @@
+p {
+    font-size: 25px;
+    font-family: "impact";
+    font-weight: bold;
+    color:#FAFFFF;
+    text-align: justify;
+    
+}
+main{
+    background-image:url(https://i.pinimg.com/originals/06/55/80/065580938b36e4c049ec033745248216.jpg) ;
+}
+header{
+    background-image: url(https://i.pinimg.com/originals/73/5d/8e/735d8e715466e44093394fa7edd41e4b.jpg);
+}
+footer{
+    background-image: url(https://2.bp.blogspot.com/-ON9Tl77-TzU/Trv68sEB4jI/AAAAAAAADJE/zC7ZK8tXE6o/s1600/Independiente_Medellin%255B1%255D.JPG);
+}
