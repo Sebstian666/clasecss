@@ -7,11 +7,17 @@ p {
     
 }
 main{
-    background-image:url(https://i.pinimg.com/originals/06/55/80/065580938b36e4c049ec033745248216.jpg) ;
+    background-image:url(https://i.pinimg.com/originals/14/05/9c/14059cabed5424a2eba4fd3d099ae543.jpg) ;
 }
 header{
-    background-image: url(https://i.pinimg.com/originals/73/5d/8e/735d8e715466e44093394fa7edd41e4b.jpg);
+    background-image: url(https://wallpapercave.com/wp/r3d2GXb.jpg);
 }
 footer{
-    background-image: url(https://2.bp.blogspot.com/-ON9Tl77-TzU/Trv68sEB4jI/AAAAAAAADJE/zC7ZK8tXE6o/s1600/Independiente_Medellin%255B1%255D.JPG);
+    background-image: url(https://c.wallhere.com/photos/bb/cf/1920x1046_px_Abstract_Art_Wallpaper_HD_artworks_digital_artworks_fantasy_wallpapers_game_wallpapers_grayscale_hd_desktop_images-800713.jpg!d);
+}
+.parrafo1{
+    font-size: 50px;
+}
+.parrafo2{
+    color:blanchedalmond;
 }
